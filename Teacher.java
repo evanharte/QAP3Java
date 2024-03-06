@@ -29,6 +29,6 @@ public class Teacher extends Person {
   //toString method
   @Override
   public String toString() {
-    return "Teacher(" + super.toString() + ", " + subject + ", " + salary + ")";
+    return "Teacher(" + super.toString() + ", " + "Subject: " + subject + ", " + "Salary: $" + salary + ")";
   }
 }
