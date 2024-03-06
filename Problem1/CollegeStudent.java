@@ -1,3 +1,4 @@
+package Problem1;
 public class CollegeStudent extends Student {
   protected String major;
   protected int year;
