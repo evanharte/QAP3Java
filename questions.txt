@@ -1,0 +1,29 @@
+1.	How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+5-6 hours
+
+2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+I used your lectures, google searches as well as some syntax questions and formula clarification from chatGPT
+
+3.	Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+No, I did not ask any of my friends for help.
+
+4.	Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+No, I did not ask any questions to any of my instructors.
+
+5.	Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+1. 9/10 - easy
+2. 8/10 - easy
+3. 6/10 - medium
+4. 5/10 - medium/hard *
+
+* I don't feel confident that I can solve a similar but different problem comparing to #4. I feel like I need more practice with the concepts of the question. I had to do some extensive searching on google to understand the concepts and how to implement them. I feel that I have a working solution based on what I was able to find. But I am not confident in my understanding of it. Especially the following part:
+
+Consider an interface Scalable with a method scale of type void.  It takes the scaling factor as a parameter.  Make the shape class defined above implement the Scalable interface.  Note that since Shape is abstract, it does not have to implement scale method.
+Make the appropriate subclasses override scale method by multiplying their instance variables by the scale factor.
+Modify the above Test class so that you add a static method that receives an array of Type Scalable, and a scale factor. This method should visit all the elements of the Scalable array and call the scale method with the scale factor passed to the static method. You should print your objects before and after scaling.  
+
