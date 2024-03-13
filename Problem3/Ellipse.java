@@ -27,4 +27,9 @@ public class Ellipse extends Shape {
   public double getPerimeter() {
     return Math.PI * Math.sqrt((2 * ((this.a * this.a) + (this.b * this.b)) - ((this.a - this.b) * (this.a - this.b))/2));
   }
+
+  @Override
+  public String toString() {
+    return "Ellipse: " + this.name + ", Area: " + this.getArea() + ", Perimeter: " + this.getPerimeter();
+  }
 }
